@@ -1,0 +1,4 @@
+/* Estilos personalizados para la Práctica 7 */
+#sec-estilos {
+    transition: background-color 0.3s ease-in-out;
+}
